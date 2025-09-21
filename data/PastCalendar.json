@@ -1,11 +1,82 @@
 [
-  {
-    "yearLabel": "విశ్వావసు",
-    "period": "2025-2026"
-  },
+
   {
     "yearLabel": "క్రోధి",
-    "period": "2024-2025"
+    "period": "2024-2025",
+    "monthsList": [
+      {
+        "month": "చైత్ర మాసము",
+        "calenderItem": {
+          "imageName": "2024_2025/page3.pdf"
+        }
+      },
+      {
+        "month": "వైశాఖ మాసము",
+        "calenderItem": {
+          "imageName": "2024_2025/page4.pdf"
+        }
+      },
+      {
+        "month": "జ్యేష్ఠ మాసము",
+        "calenderItem": {
+          "imageName": "2024_2025/page5.pdf"
+        }
+      },
+      {
+        "month": "ఆషాఢ మాసము",
+        "calenderItem": {
+          "imageName": "2024_2025/page6.pdf"
+        }
+      },
+      {
+        "month": "్రావణ మాసము",
+        "calenderItem": {
+          "imageName": "2024_2025/page7.pdf"
+        }
+      },
+      {
+        "month": "భాద్రపద మాసము",
+        "calenderItem": {
+          "imageName": "2024_2025/page8.pdf"
+        }
+      },
+      {
+        "month": "ఆశ్వీయుజ మాసము",
+        "calenderItem": {
+          "imageName": "2024_2025/page9.pdf"
+        }
+      },
+      {
+        "month": "కార్తిక మాసము",
+        "calenderItem": {
+          "imageName": "2024_2025/page10.pdf"
+        }
+      },
+      {
+        "month": "మార్గశిర మాసము",
+        "calenderItem": {
+          "imageName": "2024_2025/page11.pdf"
+        }
+      },
+      {
+        "month": "పుష్య మాసము",
+        "calenderItem": {
+          "imageName": "2024_2025/page12.pdf"
+        }
+      },
+      {
+        "month": "మాఘ మాసము",
+        "calenderItem": {
+          "imageName": "2024_2025/page13.pdf"
+        }
+      },
+      {
+        "month": "ఫాల్గుణ మాసము",
+        "calenderItem": {
+          "imageName": "2024_2025/page14.pdf"
+        }
+      }
+    ]
   },
   {
     "yearLabel": "శోభకృత్",
