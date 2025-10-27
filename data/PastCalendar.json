@@ -316,7 +316,81 @@
   },
   {
     "yearLabel": "శార్వరి",
-    "period": "2020-2021"
+    "period": "2020-2021",
+    "monthsList": [
+      {
+        "month": "చైత్ర మాసము",
+        "calenderItem": {
+          "imageName": "2020_2021/page3.pdf"
+        }
+      },
+      {
+        "month": "వైశాఖ మాసము",
+        "calenderItem": {
+          "imageName": "2020_2021/page4.pdf"
+        }
+      },
+      {
+        "month": "జ్యేష్ఠ మాసము",
+        "calenderItem": {
+          "imageName": "2020_2021/page5.pdf"
+        }
+      },
+      {
+        "month": "ఆషాఢ మాసము",
+        "calenderItem": {
+          "imageName": "2020_2021/page6.pdf"
+        }
+      },
+      {
+        "month": "శ్రావణ మాసము",
+        "calenderItem": {
+          "imageName": "2020_2021/page7.pdf"
+        }
+      },
+      {
+        "month": "భాద్రపద మాసము",
+        "calenderItem": {
+          "imageName": "2020_2021/page8.pdf"
+        }
+      },
+      {
+        "month": "ఆశ్వీయుజ మాసము",
+        "calenderItem": {
+          "imageName": "2020_2021/page9.pdf"
+        }
+      },
+      {
+        "month": "కార్తిక మాసము",
+        "calenderItem": {
+          "imageName": "2020_2021/page10.pdf"
+        }
+      },
+      {
+        "month": "మార్గశిర మాసము",
+        "calenderItem": {
+          "imageName": "2020_2021/page11.pdf"
+        }
+      },
+      {
+        "month": "పుష్య మాసము",
+        "calenderItem": {
+          "imageName": "2020_2021/page12.pdf"
+        }
+      },
+      {
+        "month": "మాఘ మాసము",
+        "calenderItem": {
+          "imageName": "2020_2021/page13.pdf"
+        }
+      },
+      {
+        "month": "ఫాల్గుణ మాసము",
+        "calenderItem": {
+          "imageName": "2020_2021/page14.pdf"
+        }
+      }
+    ]
   },
   {
     "yearLabel": "వికారి",
