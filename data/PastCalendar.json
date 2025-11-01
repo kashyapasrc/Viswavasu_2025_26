@@ -394,7 +394,81 @@
   },
   {
     "yearLabel": "వికారి",
-    "period": "2019-2020"
+    "period": "2019-2020",
+    "monthsList": [
+      {
+        "month": "చైత్ర మాసము",
+        "calenderItem": {
+          "imageName": "2019_2020/page3.pdf"
+        }
+      },
+      {
+        "month": "వైశాఖ మాసము",
+        "calenderItem": {
+          "imageName": "2019_2020/page4.pdf"
+        }
+      },
+      {
+        "month": "జ్యేష్ఠ మాసము",
+        "calenderItem": {
+          "imageName": "2019_2020/page5.pdf"
+        }
+      },
+      {
+        "month": "ఆషాఢ మాసము",
+        "calenderItem": {
+          "imageName": "2019_2020/page6.pdf"
+        }
+      },
+      {
+        "month": "శ్రావణ మాసము",
+        "calenderItem": {
+          "imageName": "2019_2020/page7.pdf"
+        }
+      },
+      {
+        "month": "భాద్రపద మాసము",
+        "calenderItem": {
+          "imageName": "2019_2020/page8.pdf"
+        }
+      },
+      {
+        "month": "ఆశ్వీయుజ మాసము",
+        "calenderItem": {
+          "imageName": "2019_2020/page9.pdf"
+        }
+      },
+      {
+        "month": "కార్తిక మాసము",
+        "calenderItem": {
+          "imageName": "2019_2020/page10.pdf"
+        }
+      },
+      {
+        "month": "మార్గశిర మాసము",
+        "calenderItem": {
+          "imageName": "2019_2020/page11.pdf"
+        }
+      },
+      {
+        "month": "పుష్య మాసము",
+        "calenderItem": {
+          "imageName": "2019_2020/page12.pdf"
+        }
+      },
+      {
+        "month": "మాఘ మాసము",
+        "calenderItem": {
+          "imageName": "2019_2020/page13.pdf"
+        }
+      },
+      {
+        "month": "ఫాల్గుణ మాసము",
+        "calenderItem": {
+          "imageName": "2019_2020/page14.pdf"
+        }
+      }
+    ]
   },
   {
     "yearLabel": "శ్రీ విలంబ",
