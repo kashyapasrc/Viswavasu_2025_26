@@ -472,34 +472,626 @@
   },
   {
     "yearLabel": "శ్రీ విలంబ",
-    "period": "2018-2019"
+    "period": "2018-2019",
+    "monthsList": [
+      {
+        "month": "చైత్ర మాసము",
+        "calenderItem": {
+          "imageName": "2018_2019/page3.pdf"
+        }
+      },
+      {
+        "month": "వైశాఖ మాసము",
+        "calenderItem": {
+          "imageName": "2018_2019/page4.pdf"
+        }
+      },
+      {
+        "month": "జ్యేష్ఠ మాసము",
+        "calenderItem": {
+          "imageName": "2018_2019/page5.pdf"
+        }
+      },
+      {
+        "month": "ఆషాఢ మాసము",
+        "calenderItem": {
+          "imageName": "2018_2019/page6.pdf"
+        }
+      },
+      {
+        "month": "శ్రావణ మాసము",
+        "calenderItem": {
+          "imageName": "2018_2019/page7.pdf"
+        }
+      },
+      {
+        "month": "భాద్రపద మాసము",
+        "calenderItem": {
+          "imageName": "2018_2019/page8.pdf"
+        }
+      },
+      {
+        "month": "ఆశ్వీయుజ మాసము",
+        "calenderItem": {
+          "imageName": "2018_2019/page9.pdf"
+        }
+      },
+      {
+        "month": "కార్తిక మాసము",
+        "calenderItem": {
+          "imageName": "2018_2019/page10.pdf"
+        }
+      },
+      {
+        "month": "మార్గశిర మాసము",
+        "calenderItem": {
+          "imageName": "2018_2019/page11.pdf"
+        }
+      },
+      {
+        "month": "పుష్య మాసము",
+        "calenderItem": {
+          "imageName": "2018_2019/page12.pdf"
+        }
+      },
+      {
+        "month": "మాఘ మాసము",
+        "calenderItem": {
+          "imageName": "2018_2019/page13.pdf"
+        }
+      },
+      {
+        "month": "ఫాల్గుణ మాసము",
+        "calenderItem": {
+          "imageName": "2018_2019/page14.pdf"
+        }
+      }
+    ]
   },
   {
     "yearLabel": "శ్రీ హేమలంబ",
-    "period": "2017-2018"
+    "period": "2017-2018",
+    "monthsList": [
+      {
+        "month": "చైత్ర మాసము",
+        "calenderItem": {
+          "imageName": "2017_2018/page3.pdf"
+        }
+      },
+      {
+        "month": "వైశాఖ మాసము",
+        "calenderItem": {
+          "imageName": "2017_2018/page4.pdf"
+        }
+      },
+      {
+        "month": "జ్యేష్ఠ మాసము",
+        "calenderItem": {
+          "imageName": "2017_2018/page5.pdf"
+        }
+      },
+      {
+        "month": "ఆషాఢ మాసము",
+        "calenderItem": {
+          "imageName": "2017_2018/page6.pdf"
+        }
+      },
+      {
+        "month": "శ్రావణ మాసము",
+        "calenderItem": {
+          "imageName": "2017_2018/page7.pdf"
+        }
+      },
+      {
+        "month": "భాద్రపద మాసము",
+        "calenderItem": {
+          "imageName": "2017_2018/page8.pdf"
+        }
+      },
+      {
+        "month": "ఆశ్వీయుజ మాసము",
+        "calenderItem": {
+          "imageName": "2017_2018/page9.pdf"
+        }
+      },
+      {
+        "month": "కార్తిక మాసము",
+        "calenderItem": {
+          "imageName": "2017_2018/page10.pdf"
+        }
+      },
+      {
+        "month": "మార్గశిర మాసము",
+        "calenderItem": {
+          "imageName": "2017_2018/page11.pdf"
+        }
+      },
+      {
+        "month": "పుష్య మాసము",
+        "calenderItem": {
+          "imageName": "2017_2018/page12.pdf"
+        }
+      },
+      {
+        "month": "మాఘ మాసము",
+        "calenderItem": {
+          "imageName": "2017_2018/page13.pdf"
+        }
+      },
+      {
+        "month": "ఫాల్గుణ మాసము",
+        "calenderItem": {
+          "imageName": "2017_2018/page14.pdf"
+        }
+      }
+    ]
   },
   {
     "yearLabel": "శ్రీ దుర్ముఖి",
-    "period": "2016-2017"
+    "period": "2016-2017",
+    "monthsList": [
+      {
+        "month": "చైత్ర మాసము",
+        "calenderItem": {
+          "imageName": "2016_2017/page3.pdf"
+        }
+      },
+      {
+        "month": "వైశాఖ మాసము",
+        "calenderItem": {
+          "imageName": "2016_2017/page4.pdf"
+        }
+      },
+      {
+        "month": "జ్యేష్ఠ మాసము",
+        "calenderItem": {
+          "imageName": "2016_2017/page5.pdf"
+        }
+      },
+      {
+        "month": "ఆషాఢ మాసము",
+        "calenderItem": {
+          "imageName": "2016_2017/page6.pdf"
+        }
+      },
+      {
+        "month": "శ్రావణ మాసము",
+        "calenderItem": {
+          "imageName": "2016_2017/page7.pdf"
+        }
+      },
+      {
+        "month": "భాద్రపద మాసము",
+        "calenderItem": {
+          "imageName": "2016_2017/page8.pdf"
+        }
+      },
+      {
+        "month": "ఆశ్వీయుజ మాసము",
+        "calenderItem": {
+          "imageName": "2016_2017/page9.pdf"
+        }
+      },
+      {
+        "month": "కార్తిక మాసము",
+        "calenderItem": {
+          "imageName": "2016_2017/page10.pdf"
+        }
+      },
+      {
+        "month": "మార్గశిర మాసము",
+        "calenderItem": {
+          "imageName": "2016_2017/page11.pdf"
+        }
+      },
+      {
+        "month": "పుష్య మాసము",
+        "calenderItem": {
+          "imageName": "2016_2017/page12.pdf"
+        }
+      },
+      {
+        "month": "మాఘ మాసము",
+        "calenderItem": {
+          "imageName": "2016_2017/page13.pdf"
+        }
+      },
+      {
+        "month": "ఫాల్గుణ మాసము",
+        "calenderItem": {
+          "imageName": "2016_2017/page14.pdf"
+        }
+      }
+    ]
   },
   {
     "yearLabel": "మన్మథ",
-    "period": "2015-2016"
+    "period": "2015-2016",
+    "monthsList": [
+      {
+        "month": "చైత్ర మాసము",
+        "calenderItem": {
+          "imageName": "2015_2016/page3.pdf"
+        }
+      },
+      {
+        "month": "వైశాఖ మాసము",
+        "calenderItem": {
+          "imageName": "2015_2016/page4.pdf"
+        }
+      },
+      {
+        "month": "జ్యేష్ఠ మాసము",
+        "calenderItem": {
+          "imageName": "2015_2016/page5.pdf"
+        }
+      },
+      {
+        "month": "ఆషాఢ మాసము",
+        "calenderItem": {
+          "imageName": "2015_2016/page6.pdf"
+        }
+      },
+      {
+        "month": "శ్రావణ మాసము",
+        "calenderItem": {
+          "imageName": "2015_2016/page7.pdf"
+        }
+      },
+      {
+        "month": "భాద్రపద మాసము",
+        "calenderItem": {
+          "imageName": "2015_2016/page8.pdf"
+        }
+      },
+      {
+        "month": "ఆశ్వీయుజ మాసము",
+        "calenderItem": {
+          "imageName": "2015_2016/page9.pdf"
+        }
+      },
+      {
+        "month": "కార్తిక మాసము",
+        "calenderItem": {
+          "imageName": "2015_2016/page10.pdf"
+        }
+      },
+      {
+        "month": "మార్గశిర మాసము",
+        "calenderItem": {
+          "imageName": "2015_2016/page11.pdf"
+        }
+      },
+      {
+        "month": "పుష్య మాసము",
+        "calenderItem": {
+          "imageName": "2015_2016/page12.pdf"
+        }
+      },
+      {
+        "month": "మాఘ మాసము",
+        "calenderItem": {
+          "imageName": "2015_2016/page13.pdf"
+        }
+      },
+      {
+        "month": "ఫాల్గుణ మాసము",
+        "calenderItem": {
+          "imageName": "2015_2016/page14.pdf"
+        }
+      }
+    ]
   },
   {
     "yearLabel": "శ్రీ జయ",
-    "period": "2014-2015"
+    "period": "2014-2015",
+    "monthsList": [
+      {
+        "month": "చైత్ర మాసము",
+        "calenderItem": {
+          "imageName": "2014_2015/page3.pdf"
+        }
+      },
+      {
+        "month": "వైశాఖ మాసము",
+        "calenderItem": {
+          "imageName": "2014_2015/page4.pdf"
+        }
+      },
+      {
+        "month": "జ్యేష్ఠ మాసము",
+        "calenderItem": {
+          "imageName": "2014_2015/page5.pdf"
+        }
+      },
+      {
+        "month": "ఆషాఢ మాసము",
+        "calenderItem": {
+          "imageName": "2014_2015/page6.pdf"
+        }
+      },
+      {
+        "month": "శ్రావణ మాసము",
+        "calenderItem": {
+          "imageName": "2014_2015/page7.pdf"
+        }
+      },
+      {
+        "month": "భాద్రపద మాసము",
+        "calenderItem": {
+          "imageName": "2014_2015/page8.pdf"
+        }
+      },
+      {
+        "month": "ఆశ్వీయుజ మాసము",
+        "calenderItem": {
+          "imageName": "2014_2015/page9.pdf"
+        }
+      },
+      {
+        "month": "కార్తిక మాసము",
+        "calenderItem": {
+          "imageName": "2014_2015/page10.pdf"
+        }
+      },
+      {
+        "month": "మార్గశిర మాసము",
+        "calenderItem": {
+          "imageName": "2014_2015/page11.pdf"
+        }
+      },
+      {
+        "month": "పుష్య మాసము",
+        "calenderItem": {
+          "imageName": "2014_2015/page12.pdf"
+        }
+      },
+      {
+        "month": "మాఘ మాసము",
+        "calenderItem": {
+          "imageName": "2014_2015/page13.pdf"
+        }
+      },
+      {
+        "month": "ఫాల్గుణ మాసము",
+        "calenderItem": {
+          "imageName": "2014_2015/page14.pdf"
+        }
+      }
+    ]
   },
   {
     "yearLabel": "విజయ",
-    "period": "2013-2014"
+    "period": "2013-2014",
+    "monthsList": [
+      {
+        "month": "చైత్ర మాసము",
+        "calenderItem": {
+          "imageName": "2013_2014/page3.pdf"
+        }
+      },
+      {
+        "month": "వైశాఖ మాసము",
+        "calenderItem": {
+          "imageName": "2013_2014/page4.pdf"
+        }
+      },
+      {
+        "month": "జ్యేష్ఠ మాసము",
+        "calenderItem": {
+          "imageName": "2013_2014/page5.pdf"
+        }
+      },
+      {
+        "month": "ఆషాఢ మాసము",
+        "calenderItem": {
+          "imageName": "2013_2014/page6.pdf"
+        }
+      },
+      {
+        "month": "శ్రావణ మాసము",
+        "calenderItem": {
+          "imageName": "2013_2014/page7.pdf"
+        }
+      },
+      {
+        "month": "భాద్రపద మాసము",
+        "calenderItem": {
+          "imageName": "2013_2014/page8.pdf"
+        }
+      },
+      {
+        "month": "ఆశ్వీయుజ మాసము",
+        "calenderItem": {
+          "imageName": "2013_2014/page9.pdf"
+        }
+      },
+      {
+        "month": "కార్తిక మాసము",
+        "calenderItem": {
+          "imageName": "2013_2014/page10.pdf"
+        }
+      },
+      {
+        "month": "మార్గశిర మాసము",
+        "calenderItem": {
+          "imageName": "2013_2014/page11.pdf"
+        }
+      },
+      {
+        "month": "పుష్య మాసము",
+        "calenderItem": {
+          "imageName": "2013_2014/page12.pdf"
+        }
+      },
+      {
+        "month": "మాఘ మాసము",
+        "calenderItem": {
+          "imageName": "2013_2014/page13.pdf"
+        }
+      },
+      {
+        "month": "ఫాల్గుణ మాసము",
+        "calenderItem": {
+          "imageName": "2013_2014/page14.pdf"
+        }
+      }
+    ]
   },
   {
     "yearLabel": "నందన",
-    "period": "2012-2013"
+    "period": "2012-2013",
+    "monthsList": [
+      {
+        "month": "చైత్ర మాసము",
+        "calenderItem": {
+          "imageName": "2012_2013/page3.pdf"
+        }
+      },
+      {
+        "month": "వైశాఖ మాసము",
+        "calenderItem": {
+          "imageName": "2012_2013/page4.pdf"
+        }
+      },
+      {
+        "month": "జ్యేష్ఠ మాసము",
+        "calenderItem": {
+          "imageName": "2012_2013/page5.pdf"
+        }
+      },
+      {
+        "month": "ఆషాఢ మాసము",
+        "calenderItem": {
+          "imageName": "2012_2013/page6.pdf"
+        }
+      },
+      {
+        "month": "శ్రావణ మాసము",
+        "calenderItem": {
+          "imageName": "2012_2013/page7.pdf"
+        }
+      },
+      {
+        "month": "భాద్రపద మాసము",
+        "calenderItem": {
+          "imageName": "2012_2013/page8.pdf"
+        }
+      },
+      {
+        "month": "ఆశ్వీయుజ మాసము",
+        "calenderItem": {
+          "imageName": "2012_2013/page9.pdf"
+        }
+      },
+      {
+        "month": "కార్తిక మాసము",
+        "calenderItem": {
+          "imageName": "2012_2013/page10.pdf"
+        }
+      },
+      {
+        "month": "మార్గశిర మాసము",
+        "calenderItem": {
+          "imageName": "2012_2013/page11.pdf"
+        }
+      },
+      {
+        "month": "పుష్య మాసము",
+        "calenderItem": {
+          "imageName": "2012_2013/page12.pdf"
+        }
+      },
+      {
+        "month": "మాఘ మాసము",
+        "calenderItem": {
+          "imageName": "2012_2013/page13.pdf"
+        }
+      },
+      {
+        "month": "ఫాల్గుణ మాసము",
+        "calenderItem": {
+          "imageName": "2012_2013/page14.pdf"
+        }
+      }
+    ]
   },
   {
     "yearLabel": "ఖర",
-    "period": "2011-2012"
+    "period": "2011-2012",
+    "monthsList": [
+      {
+        "month": "చైత్ర మాసము",
+        "calenderItem": {
+          "imageName": "2011_2012/page3.pdf"
+        }
+      },
+      {
+        "month": "వైశాఖ మాసము",
+        "calenderItem": {
+          "imageName": "2011_2012/page4.pdf"
+        }
+      },
+      {
+        "month": "జ్యేష్ఠ మాసము",
+        "calenderItem": {
+          "imageName": "2011_2012/page5.pdf"
+        }
+      },
+      {
+        "month": "ఆషాఢ మాసము",
+        "calenderItem": {
+          "imageName": "2011_2012/page6.pdf"
+        }
+      },
+      {
+        "month": "శ్రావణ మాసము",
+        "calenderItem": {
+          "imageName": "2011_2012/page7.pdf"
+        }
+      },
+      {
+        "month": "భాద్రపద మాసము",
+        "calenderItem": {
+          "imageName": "2011_2012/page8.pdf"
+        }
+      },
+      {
+        "month": "ఆశ్వీయుజ మాసము",
+        "calenderItem": {
+          "imageName": "2011_2012/page9.pdf"
+        }
+      },
+      {
+        "month": "కార్తిక మాసము",
+        "calenderItem": {
+          "imageName": "2011_2012/page10.pdf"
+        }
+      },
+      {
+        "month": "మార్గశిర మాసము",
+        "calenderItem": {
+          "imageName": "2011_2012/page11.pdf"
+        }
+      },
+      {
+        "month": "పుష్య మాసము",
+        "calenderItem": {
+          "imageName": "2011_2012/page12.pdf"
+        }
+      },
+      {
+        "month": "మాఘ మాసము",
+        "calenderItem": {
+          "imageName": "2011_2012/page13.pdf"
+        }
+      },
+      {
+        "month": "ఫాల్గుణ మాసము",
+        "calenderItem": {
+          "imageName": "2011_2012/page14.pdf"
+        }
+      }
+    ]
   }
 ]
