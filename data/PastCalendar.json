@@ -2,6 +2,7 @@
   {
     "yearLabel": "విశ్వావసు",
     "period": "2025-2026",
+    "isVisible": false,
     "monthsList": [
       {
         "month": "చైత్ర మాసము",
@@ -80,6 +81,7 @@
   {
     "yearLabel": "క్రోధి",
     "period": "2024-2025",
+    "isVisible": true,
     "monthsList": [
       {
         "month": "చైత్ర మాసము",
@@ -158,7 +160,7 @@
   {
     "yearLabel": "శోభకృత్",
     "period": "2023-2024",
-
+    "isVisible": true,
     "monthsList": [
       {
         "month": "చైత్ర మాసము",
@@ -233,11 +235,11 @@
         }
       }
     ]
-
   },
   {
     "yearLabel": "శుభకృత్",
     "period": "2022-2023",
+    "isVisible": true,
     "monthsList": [
       {
         "month": "చైత్ర మాసము",
@@ -316,6 +318,7 @@
   {
     "yearLabel": "ఫ్లవ",
     "period": "2021-2022",
+    "isVisible": true,
     "monthsList": [
       {
         "month": "చైత్ర మాసము",
@@ -394,6 +397,7 @@
   {
     "yearLabel": "శార్వరి",
     "period": "2020-2021",
+    "isVisible": true,
     "monthsList": [
       {
         "month": "చైత్ర మాసము",
@@ -472,6 +476,7 @@
   {
     "yearLabel": "వికారి",
     "period": "2019-2020",
+    "isVisible": true,
     "monthsList": [
       {
         "month": "చైత్ర మాసము",
@@ -550,6 +555,7 @@
   {
     "yearLabel": "శ్రీ విలంబ",
     "period": "2018-2019",
+    "isVisible": true,
     "monthsList": [
       {
         "month": "చైత్ర మాసము",
@@ -628,6 +634,7 @@
   {
     "yearLabel": "శ్రీ హేమలంబ",
     "period": "2017-2018",
+    "isVisible": true,
     "monthsList": [
       {
         "month": "చైత్ర మాసము",
@@ -706,6 +713,7 @@
   {
     "yearLabel": "శ్రీ దుర్ముఖి",
     "period": "2016-2017",
+    "isVisible": true,
     "monthsList": [
       {
         "month": "చైత్ర మాసము",
@@ -784,6 +792,7 @@
   {
     "yearLabel": "మన్మథ",
     "period": "2015-2016",
+    "isVisible": true,
     "monthsList": [
       {
         "month": "చైత్ర మాసము",
@@ -862,6 +871,7 @@
   {
     "yearLabel": "శ్రీ జయ",
     "period": "2014-2015",
+    "isVisible": true,
     "monthsList": [
       {
         "month": "చైత్ర మాసము",
@@ -940,6 +950,7 @@
   {
     "yearLabel": "విజయ",
     "period": "2013-2014",
+    "isVisible": true,
     "monthsList": [
       {
         "month": "చైత్ర మాసము",
@@ -1018,6 +1029,7 @@
   {
     "yearLabel": "నందన",
     "period": "2012-2013",
+    "isVisible": true,
     "monthsList": [
       {
         "month": "చైత్ర మాసము",
@@ -1096,6 +1108,7 @@
   {
     "yearLabel": "ఖర",
     "period": "2011-2012",
+    "isVisible": true,
     "monthsList": [
       {
         "month": "చైత్ర మాసము",
