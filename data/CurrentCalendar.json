@@ -1,0 +1,81 @@
+{
+    "yearLabel": "విశ్వావసు",
+    "period": "2025-2026",
+    
+    "monthsList": [
+      {
+        "startDate":"",
+        "endDate":"",
+        "month": "చైత్ర మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_చైత్రము_.pdf"
+        }
+      },
+      {
+        "month": "వైశాఖ మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_వైశాఖము_.pdf"
+        }
+      },
+      {
+        "month": "జ్యేష్ఠ మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_జ్యేష్ఠము_.pdf"
+        }
+      },
+      {
+        "month": "ఆషాఢ మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_ఆషాఢము_.pdf"
+        }
+      },
+      {
+        "month": "శ్రావణ మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_శ్రావణము_.pdf"
+        }
+      },
+      {
+        "month": "భాద్రపద మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_భాద్రపదము_.pdf"
+        }
+      },
+      {
+        "month": "ఆశ్వీయుజ మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_ఆశ్వీయుజము_.pdf"
+        }
+      },
+      {
+        "month": "కార్తిక మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_కార్తికము_.pdf"
+        }
+      },
+      {
+        "month": "మార్గశిర మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_మార్గశిరము_.pdf"
+        }
+      },
+      {
+        "month": "పుష్య మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_పుష్యము_.pdf"
+        }
+      },
+      {
+        "month": "మాఘ మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_మాఘము_.pdf"
+        }
+      },
+      {
+        "month": "ఫాల్గుణ మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_ఫాల్గుణము_.pdf"
+        }
+      }
+    ]
+  },
