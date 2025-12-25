@@ -1,0 +1,103 @@
+{
+    "yearLabel": "విశ్వావసు",
+    "period": "2025-2026",
+  
+    "monthsList": [
+      {
+        "startDate":"30-03-2025",
+        "endDate":"27-04-2025",
+        "month": "చైత్ర మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_చైత్రము_.pdf"
+        }
+      },
+      {
+        "startDate" : "28-04-2025",
+        "endDate" : "27-05-2025",
+        "month": "వైశాఖ మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_వైశాఖము_.pdf"
+        }
+      },
+      {
+        "startDate" : "28-05-2025",
+        "endDate" :"25-06-2025",
+        "month": "జ్యేష్ఠ మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_జ్యేష్ఠము_.pdf"
+        }
+      },
+      {
+        "startDate" : "26-06-2025",
+        "endDate" :"24-07-2025",
+        "month": "ఆషాఢ మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_ఆషాఢము_.pdf"
+        }
+      },
+      {
+        "startDate" : "25-07-2025",
+        "endDate" :"23-08-2025",
+        "month": "శ్రావణ మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_శ్రావణము_.pdf"
+        }
+      },
+      {
+        "startDate" : "24-08-2025",
+        "endDate" :"21-09-2025",
+        "month": "భాద్రపద మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_భాద్రపదము_.pdf"
+        }
+      },
+      {
+        "startDate" : "22-09-2025",
+        "endDate" :"21-10-2025",
+        "month": "ఆశ్వీయుజ మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_ఆశ్వీయుజము_.pdf"
+        }
+      },
+      {
+        "startDate" : "22-10-2025",
+        "endDate" :"20-11-2025",
+        "month": "కార్తిక మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_కార్తికము_.pdf"
+        }
+      },
+      {
+        "startDate" : "21-11-2025",
+        "endDate" :"19-12-2025",
+        "month": "మార్గశిర మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_మార్గశిరము_.pdf"
+        }
+      },
+      {
+        "startDate" : "20-12-2025",
+        "endDate" :"18-01-2026",
+        "month": "పుష్య మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_పుష్యము_.pdf"
+        }
+      },
+      {
+        "startDate" : "19-01-2026",
+        "endDate" :"17-02-2026",
+        "month": "మాఘ మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_మాఘము_.pdf"
+        }
+      },
+      {
+        "startDate" : "18-02-2026",
+        "endDate" :"19-03-2026",
+        "month": "ఫాల్గుణ మాసము",
+        "calenderItem": {
+          "imageName": "2025_2026/_ఫాల్గుణము_.pdf"
+        }
+      }
+    ]
+  }
