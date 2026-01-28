@@ -2,5 +2,5 @@
   "banner_title":"Scheduled Maintenance in Progress",
   "banner_subtitle":"We are updating our systems to improve your experience. Services will be back shortly.",
   "show_banner":true,
-  "show_banner_button":false,
+  "show_banner_button":false
 }
