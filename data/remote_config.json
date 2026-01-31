@@ -2,5 +2,10 @@
   "banner_title":"Scheduled Maintenance in Progress",
   "banner_subtitle":"We are updating our systems to improve your experience. Services will be back shortly.",
   "show_banner":true,
-  "show_banner_button":true
+  "show_banner_button":true,
+  "update_app_version":11,
+  "auto_app_upgrade":true,
+  "dashboard_top_card_month":false,
+  "dashboard_top_card_ruthuvu":false
+  
 }
