@@ -5,7 +5,7 @@
   "show_banner_button":true,
   "update_app_version":12,
   "auto_app_upgrade":false,
-  "dashboard_top_card_month":false,
-  "dashboard_top_card_ruthuvu":false
+  "dashboard_top_card_month":true,
+  "dashboard_top_card_ruthuvu":true
   
 }
